@@ -1,0 +1,29 @@
+default: &default
+  adapter: postgresql
+  encoding: unicode
+  username: postgres
+  # password: xxxxx #<-- which you have defiend while installing postgresql
+  # pool: <%= ENV.fetch("RAILS_MAX_THREADS") { 5 } %>
+
+development:
+  adapter: postgresql
+  encoding: utf8
+  database: my_app_db
+  username: sas
+  password: sas
+  pool: 5
+  timeout: 5000
+  host: localhost
+  port: 5432
+
+
+test:
+  <<: *default
+  database: postgres
+
+production:
+  <<: *default
+  database: postgres
+  username: username
+  # password: <%= ENV['PROJECT_DATABASE_PASSWORD'] %>
+
