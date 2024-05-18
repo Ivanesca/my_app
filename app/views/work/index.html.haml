@@ -1,0 +1,49 @@
+.exam-wrapper
+  .img-center
+    %img{:alt => "Default Image", :src => asset_path(@default_image_name), :title => "Default image" }
+
+  .tool-panel
+
+    .theme
+      %h4.up-theme{:title => "theme_name"} #{@selected_theme}
+      .select_theme
+        = render 'work/button_theme_select'
+
+    %h4.up{:title => "Image file name"} #{@selected_image_name}
+
+
+    %span.user_value{:style => "display: none"}
+      = "User value"
+      %h4.value{:title => "User value"}
+    %span.common_value{:style => "display: none"}
+      = "Common value"
+      %h4.common{:title => "Common value"}
+
+    %span.total_values
+      = 'Total values:'
+      %h4.total{:title => "Total values"} #{@values_qty.round}
+
+    .image_diag
+      .percentage_limit
+        %p.left 0%
+        %p.right 100%
+
+      #slider
+        %input.slide#slide{:max => "100", :min => "0", :value => "50",
+                           :onchange => "updateValue(this.value)",
+                           :step => "1", :type => "range"}
+
+      %h4.down#chosen_value{:title => "Value"} 50
+
+    %button.btn.button_save{:title => "Save image diag results"}
+      %a{"data-remote" => "true", :format => "js", :href => "#", :title => "Save image diag results"} Save value
+
+
+    .image_navigation
+      .img-left-side
+        %h3{:title => "list to previous image"}
+          %button.btn.btn-default{type: "submit", name: "submission" } Previous
+
+      .img-right-side
+        %h3{:title => "list to next image"}
+          %button.btn.btn-default{type: "submit", name: "submission" } Next

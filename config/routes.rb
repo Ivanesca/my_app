@@ -1,4 +1,9 @@
 Rails.application.routes.draw do
+  resources :themes
+  resources :images
+  resources :values
+  resources :users
+  resources :sessions
   get 'main/index'
   get 'main/help'
   get 'main/contacts'
@@ -10,5 +15,15 @@ Rails.application.routes.draw do
   get "up" => "rails/health#show", as: :rails_health_check
 
   # Defines the root path route ("/")
-  # root "posts#index"
+  root 'work#index'
+  match 'work', to: 'work#index', via: :get
+  match 'choose_theme', to: 'work#choose_theme', via: :get
+  match 'display_theme', to: 'work#display_theme', via: :post
+  get 'api/next_image' => 'api#next_image'
+  get 'api/prev_image' => 'api#prev_image'
+  get 'api/save_value' => 'api#save_value'
+  match 'signup',   to: 'users#new',            via: 'get'
+  match 'signin',   to: 'sessions#new',         via: 'get'
+  match 'signout',  to: 'sessions#destroy',     via: 'get'
+  match 'results_list',     to: 'work#results_list', via: :get
 end

@@ -1,0 +1,22 @@
+
+
+.signinform
+  .col
+    = form_for(:session, url: sessions_path, html: {class: "form-horizontal"}) do |f|
+      .form-group
+        = f.label :email, "Email"
+        .col
+          = f.text_field :email, class: "form-control"
+
+      .form-group
+        = f.label :password, t('.password')
+        .col
+          = f.password_field :password, class: "form-control"
+
+      .form-group
+        .col.signinbutton
+          = f.submit t('.sign_in'), class: "btn btn-large btn-block"
+
+    %p.sign_up_link
+      = t('.new_user?')
+      #{link_to t('.sign_up'), signup_path}

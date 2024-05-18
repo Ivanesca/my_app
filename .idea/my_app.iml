@@ -34,29 +34,51 @@
     <orderEntry type="library" scope="PROVIDED" name="actionpack (v7.1.3.2, rbenv: 3.3.0) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="actiontext (v7.1.3.2, rbenv: 3.3.0) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="actionview (v7.1.3.2, rbenv: 3.3.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="active_model_serializers (v0.10.14, rbenv: 3.3.0) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="activejob (v7.1.3.2, rbenv: 3.3.0) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="activemodel (v7.1.3.2, rbenv: 3.3.0) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="activerecord (v7.1.3.2, rbenv: 3.3.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="activerecord-reset-pk-sequence (v0.2.1, rbenv: 3.3.0) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="activestorage (v7.1.3.2, rbenv: 3.3.0) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="activesupport (v7.1.3.2, rbenv: 3.3.0) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="addressable (v2.8.6, rbenv: 3.3.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="autoprefixer-rails (v10.4.16.0, rbenv: 3.3.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="bcrypt (v3.1.20, rbenv: 3.3.0) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="bigdecimal (v3.1.7, rbenv: 3.3.0) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="bindex (v0.8.1, rbenv: 3.3.0) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="bootsnap (v1.18.3, rbenv: 3.3.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="bootstrap (v5.3.3, rbenv: 3.3.0) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="builder (v3.2.4, rbenv: 3.3.0) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="bundler (v2.5.6, rbenv: 3.3.0) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="capybara (v3.40.0, rbenv: 3.3.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="case_transform (v0.2, rbenv: 3.3.0) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="concurrent-ruby (v1.2.3, rbenv: 3.3.0) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="connection_pool (v2.4.1, rbenv: 3.3.0) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="crass (v1.0.6, rbenv: 3.3.0) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="debug (v1.9.1, rbenv: 3.3.0) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="drb (v2.2.1, rbenv: 3.3.0) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="erubi (v1.12.0, rbenv: 3.3.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="erubis (v2.7.0, rbenv: 3.3.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="execjs (v2.9.1, rbenv: 3.3.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="ffi (v1.16.3, rbenv: 3.3.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="font-awesome-rails (v4.7.0.8, rbenv: 3.3.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="font-awesome-sass (v6.5.2, rbenv: 3.3.0) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="globalid (v1.2.1, rbenv: 3.3.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="haml (v6.3.0, rbenv: 3.3.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="haml-rails (v2.1.0, rbenv: 3.3.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="html2haml (v2.3.0, rbenv: 3.3.0) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="i18n (v1.14.4, rbenv: 3.3.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="importmap-rails (v2.0.1, rbenv: 3.3.0) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="io-console (v0.7.2, rbenv: 3.3.0) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="irb (v1.12.0, rbenv: 3.3.0) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="jbuilder (v2.11.5, rbenv: 3.3.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="jquery-rails (v4.6.0, rbenv: 3.3.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="jquery-ui-rails (v7.0.0, rbenv: 3.3.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="jsonapi-renderer (v0.2.2, rbenv: 3.3.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="kaminari (v1.2.2, rbenv: 3.3.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="kaminari-actionview (v1.2.2, rbenv: 3.3.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="kaminari-activerecord (v1.2.2, rbenv: 3.3.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="kaminari-core (v1.2.2, rbenv: 3.3.0) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="loofah (v2.22.0, rbenv: 3.3.0) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="mail (v2.8.1, rbenv: 3.3.0) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="marcel (v1.0.4, rbenv: 3.3.0) [gem]" level="application" />
@@ -70,6 +92,7 @@
     <orderEntry type="library" scope="PROVIDED" name="nio4r (v2.7.1, rbenv: 3.3.0) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="nokogiri (v1.16.3, rbenv: 3.3.0) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="pg (v1.5.6, rbenv: 3.3.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="popper_js (v2.11.8, rbenv: 3.3.0) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="psych (v5.1.2, rbenv: 3.3.0) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="public_suffix (v5.0.4, rbenv: 3.3.0) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="puma (v6.4.2, rbenv: 3.3.0) [gem]" level="application" />
@@ -79,6 +102,7 @@
     <orderEntry type="library" scope="PROVIDED" name="rack-test (v2.1.0, rbenv: 3.3.0) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="rackup (v2.1.0, rbenv: 3.3.0) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="rails (v7.1.3.2, rbenv: 3.3.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="rails-asset-jqueryui (v0.0.3, rbenv: 3.3.0) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="rails-dom-testing (v2.2.0, rbenv: 3.3.0) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="rails-html-sanitizer (v1.6.0, rbenv: 3.3.0) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="railties (v7.1.3.2, rbenv: 3.3.0) [gem]" level="application" />
@@ -87,17 +111,29 @@
     <orderEntry type="library" scope="PROVIDED" name="regexp_parser (v2.9.0, rbenv: 3.3.0) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="reline (v0.4.3, rbenv: 3.3.0) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="rexml (v3.2.6, rbenv: 3.3.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="ruby_parser (v3.21.0, rbenv: 3.3.0) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="rubyzip (v2.3.2, rbenv: 3.3.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="sass-rails (v6.0.0, rbenv: 3.3.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="sassc (v2.4.0, rbenv: 3.3.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="sassc-rails (v2.1.2, rbenv: 3.3.0) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="selenium-webdriver (v4.18.1, rbenv: 3.3.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="sexp_processor (v4.17.1, rbenv: 3.3.0) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="sprockets (v4.2.1, rbenv: 3.3.0) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="sprockets-rails (v3.4.2, rbenv: 3.3.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="stimulus-rails (v1.3.3, rbenv: 3.3.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="temple (v0.10.3, rbenv: 3.3.0) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="thor (v1.3.1, rbenv: 3.3.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="tilt (v2.3.0, rbenv: 3.3.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="turbo-rails (v2.0.5, rbenv: 3.3.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="turbolinks (v5.2.1, rbenv: 3.3.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="turbolinks-source (v5.2.0, rbenv: 3.3.0) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="tzinfo (v2.0.6, rbenv: 3.3.0) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="web-console (v4.2.1, rbenv: 3.3.0) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="webrick (v1.8.1, rbenv: 3.3.0) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="websocket (v1.2.10, rbenv: 3.3.0) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="websocket-driver (v0.7.6, rbenv: 3.3.0) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="websocket-extensions (v0.1.5, rbenv: 3.3.0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="will_paginate (v4.0.0, rbenv: 3.3.0) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="xpath (v3.2.0, rbenv: 3.3.0) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="zeitwerk (v2.6.13, rbenv: 3.3.0) [gem]" level="application" />
   </component>
@@ -108,76 +144,80 @@
   <component name="RailsGeneratorsCache">
     <option name="generators">
       <list>
-        <option value="active_record:migration" />
-        <option value="active_record:model" />
-        <option value="active_record:observer" />
-        <option value="active_record:session_migration" />
+        <option value="active_record:application_record" />
+        <option value="active_record:multi_db" />
+        <option value="application_record" />
+        <option value="benchmark" />
+        <option value="channel" />
         <option value="controller" />
         <option value="erb:controller" />
         <option value="erb:mailer" />
         <option value="erb:scaffold" />
         <option value="generator" />
+        <option value="haml:application_layout" />
         <option value="helper" />
         <option value="integration_test" />
+        <option value="jbuilder" />
+        <option value="job" />
+        <option value="kaminari:config" />
+        <option value="kaminari:views" />
+        <option value="mailbox" />
         <option value="mailer" />
-        <option value="metal" />
         <option value="migration" />
         <option value="model" />
-        <option value="model_subclass" />
-        <option value="observer" />
-        <option value="performance_test" />
-        <option value="plugin" />
         <option value="resource" />
         <option value="scaffold" />
         <option value="scaffold_controller" />
-        <option value="session_migration" />
-        <option value="stylesheets" />
-        <option value="test_unit:controller" />
-        <option value="test_unit:helper" />
-        <option value="test_unit:integration" />
-        <option value="test_unit:mailer" />
-        <option value="test_unit:model" />
-        <option value="test_unit:observer" />
-        <option value="test_unit:performance" />
+        <option value="scss:assets" />
+        <option value="scss:scaffold" />
+        <option value="serializer" />
+        <option value="stimulus" />
+        <option value="system_test" />
+        <option value="task" />
+        <option value="test_unit:channel" />
+        <option value="test_unit:generator" />
+        <option value="test_unit:install" />
+        <option value="test_unit:mailbox" />
         <option value="test_unit:plugin" />
-        <option value="test_unit:scaffold" />
       </list>
     </option>
     <option name="myGenerators">
       <list>
-        <option value="active_record:migration" />
-        <option value="active_record:model" />
-        <option value="active_record:observer" />
-        <option value="active_record:session_migration" />
+        <option value="active_record:application_record" />
+        <option value="active_record:multi_db" />
+        <option value="application_record" />
+        <option value="benchmark" />
+        <option value="channel" />
         <option value="controller" />
         <option value="erb:controller" />
         <option value="erb:mailer" />
         <option value="erb:scaffold" />
         <option value="generator" />
+        <option value="haml:application_layout" />
         <option value="helper" />
         <option value="integration_test" />
+        <option value="jbuilder" />
+        <option value="job" />
+        <option value="kaminari:config" />
+        <option value="kaminari:views" />
+        <option value="mailbox" />
         <option value="mailer" />
-        <option value="metal" />
         <option value="migration" />
         <option value="model" />
-        <option value="model_subclass" />
-        <option value="observer" />
-        <option value="performance_test" />
-        <option value="plugin" />
         <option value="resource" />
         <option value="scaffold" />
         <option value="scaffold_controller" />
-        <option value="session_migration" />
-        <option value="stylesheets" />
-        <option value="test_unit:controller" />
-        <option value="test_unit:helper" />
-        <option value="test_unit:integration" />
-        <option value="test_unit:mailer" />
-        <option value="test_unit:model" />
-        <option value="test_unit:observer" />
-        <option value="test_unit:performance" />
+        <option value="scss:assets" />
+        <option value="scss:scaffold" />
+        <option value="serializer" />
+        <option value="stimulus" />
+        <option value="system_test" />
+        <option value="task" />
+        <option value="test_unit:channel" />
+        <option value="test_unit:generator" />
+        <option value="test_unit:install" />
+        <option value="test_unit:mailbox" />
         <option value="test_unit:plugin" />
-        <option value="test_unit:scaffold" />
       </list>
     </option>
   </component>
@@ -354,6 +394,11 @@
               <RakeTaskImpl description="" fullCommand="assets:clean" id="clean" />
             </subtasks>
           </RakeTaskImpl>
+          <RakeTaskImpl id="autoprefixer">
+            <subtasks>
+              <RakeTaskImpl description="Show selected browsers and prefixed CSS properties and values" fullCommand="autoprefixer:info" id="info" />
+            </subtasks>
+          </RakeTaskImpl>
           <RakeTaskImpl id="cache_digests">
             <subtasks>
               <RakeTaskImpl description="Lookup first-level dependencies for TEMPLATE (like messages/show or comments/_comment.html)" fullCommand="cache_digests:dependencies" id="dependencies" />
@@ -457,12 +502,40 @@
               <RakeTaskImpl description="" fullCommand="db:truncate_all" id="truncate_all" />
             </subtasks>
           </RakeTaskImpl>
+          <RakeTaskImpl id="haml">
+            <subtasks>
+              <RakeTaskImpl description="Convert html.erb to html.haml each file in app/views" fullCommand="haml:erb2haml" id="erb2haml" />
+            </subtasks>
+          </RakeTaskImpl>
+          <RakeTaskImpl id="importmap">
+            <subtasks>
+              <RakeTaskImpl description="Setup Importmap for the app" fullCommand="importmap:install" id="install" />
+            </subtasks>
+          </RakeTaskImpl>
           <RakeTaskImpl id="log">
             <subtasks>
               <RakeTaskImpl description="Truncate all/specified *.log files in log/ to zero bytes (specify which logs with LOGS=test,development)" fullCommand="log:clear" id="clear" />
             </subtasks>
           </RakeTaskImpl>
           <RakeTaskImpl description="Report code statistics (KLOCs, etc) from the application or engine" fullCommand="stats" id="stats" />
+          <RakeTaskImpl id="stimulus">
+            <subtasks>
+              <RakeTaskImpl description="Install Stimulus into the app" fullCommand="stimulus:install" id="install" />
+              <RakeTaskImpl id="install">
+                <subtasks>
+                  <RakeTaskImpl description="Install Stimulus on an app running bun" fullCommand="stimulus:install:bun" id="bun" />
+                  <RakeTaskImpl description="Install Stimulus on an app running importmap-rails" fullCommand="stimulus:install:importmap" id="importmap" />
+                  <RakeTaskImpl description="Install Stimulus on an app running node" fullCommand="stimulus:install:node" id="node" />
+                </subtasks>
+              </RakeTaskImpl>
+              <RakeTaskImpl id="manifest">
+                <subtasks>
+                  <RakeTaskImpl description="Show the current Stimulus manifest (all installed controllers)" fullCommand="stimulus:manifest:display" id="display" />
+                  <RakeTaskImpl description="Update the Stimulus manifest (will overwrite controllers/index.js)" fullCommand="stimulus:manifest:update" id="update" />
+                </subtasks>
+              </RakeTaskImpl>
+            </subtasks>
+          </RakeTaskImpl>
           <RakeTaskImpl description="Run all tests in test folder except system ones" fullCommand="test" id="test" />
           <RakeTaskImpl id="test">
             <subtasks>
@@ -524,6 +597,19 @@
               <RakeTaskImpl id="storage">
                 <subtasks>
                   <RakeTaskImpl description="" fullCommand="tmp:storage:clear" id="clear" />
+                </subtasks>
+              </RakeTaskImpl>
+            </subtasks>
+          </RakeTaskImpl>
+          <RakeTaskImpl id="turbo">
+            <subtasks>
+              <RakeTaskImpl description="Install Turbo into the app" fullCommand="turbo:install" id="install" />
+              <RakeTaskImpl id="install">
+                <subtasks>
+                  <RakeTaskImpl description="Install Turbo into the app with bun" fullCommand="turbo:install:bun" id="bun" />
+                  <RakeTaskImpl description="Install Turbo into the app with asset pipeline" fullCommand="turbo:install:importmap" id="importmap" />
+                  <RakeTaskImpl description="Install Turbo into the app with webpacker" fullCommand="turbo:install:node" id="node" />
+                  <RakeTaskImpl description="Switch on Redis and use it in development" fullCommand="turbo:install:redis" id="redis" />
                 </subtasks>
               </RakeTaskImpl>
             </subtasks>
