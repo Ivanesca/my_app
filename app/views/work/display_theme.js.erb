@@ -137,7 +137,6 @@ $('.img-left-side').click(function (event) {
             alt: "Selected Image", src:
             pathImage, title: "Selected image"
         });
-
         var userValuedFlag = data_return.user_valued;
         if(userValuedFlag  === 1){
             $('span.common_value').css({"display": "block"});
@@ -161,7 +160,6 @@ $('.img-left-side').click(function (event) {
         });
 });
 
-// AJAX call to next image list
 $('button.button_save').unbind( "click" ).click(function(event) {
     event.stopImmediatePropagation();
     var valueFromCite = document.getElementById('chosen_value').innerHTML;

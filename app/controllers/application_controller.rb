@@ -10,8 +10,7 @@ class ApplicationController < ActionController::Base
 
   def extr_locale_in_accept_lang
     locale = params[:locale]
-    logger.info "In extr_locale_in_accept_lang: locale =
- #{locale}"
+    logger.info "In extr_locale_in_accept_lang: locale = #{locale}"
   end
 
   private

@@ -9,11 +9,11 @@ class WorkController < ApplicationController
   def index
     @images_count = Image.all.count
     @selected_theme = "Choose theme"
-    @selected_image_name = 'Lego'
+    @selected_image_name = 'Cinema'
     @values_qty = Value.all.count
     @current_locale = I18n.locale
     @themes = Theme.all.pluck(:name)
-    @default_image_name = 'lego.jpg'
+    @default_image_name = 'mock.jpg'
 
     session[:selected_theme_id] = @selected_theme
   end
@@ -34,8 +34,8 @@ class WorkController < ApplicationController
       theme = "-----"
       theme_id = 1
       values_qty = Value.all.count.round
-      data = { index: 0, name: 'Lego', values_qty: values_qty,
-               file: 'lego.jpg', image_id: 4,
+      data = { index: 0, name: 'Cinema', values_qty: values_qty,
+               file: 'mock.jpg', image_id: 4,
                current_user_id: current_user_id, user_valued: false,
                common_ave_value: 0, value: 0, theme_id: theme_id }
     else

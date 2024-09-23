@@ -1,6 +1,5 @@
 %div.table
 
-
 :javascript
     fetch('/results_list', {
       headers: {
@@ -9,7 +8,7 @@
     }
     }).then(res => res.json()).then((images) => {
       let result = ` <div class="image title">
-          <span class="name">Set name</span>
+          <span class="name">Title</span>
           <span class="name">Image</span>
           <span class="name">Theme</span>
           <span class="name">User value</span>
